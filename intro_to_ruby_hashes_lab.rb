@@ -50,7 +50,9 @@ def monopoly_with_fourth_tier
 
 
 :railroads => {
+    
     :pieces => 4, 
+    
     :rent_in_dollars => {
    :one_piece_owned => 25,
    :two_pieces_owned => 50,
@@ -68,18 +70,7 @@ def monopoly_with_fourth_tier
 {:mortgage_value => 800}}} 
 
 
-
-
-
-
-
-
-
-
-
-
-
- end
+end
 
  
  # When you start writing the implementation for this method, copy the Hash
