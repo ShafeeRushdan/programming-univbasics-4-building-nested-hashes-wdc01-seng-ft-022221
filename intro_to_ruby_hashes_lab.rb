@@ -49,7 +49,7 @@ def monopoly_with_fourth_tier
  
 
 
-:railroads => {
+{:railroads => {
     
     :pieces => 4, 
     
